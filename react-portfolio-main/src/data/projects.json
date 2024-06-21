@@ -1,0 +1,104 @@
+[
+  {
+    "title": "Voice To Text APP",
+    "imageSrc": "projects/project1.png",
+    "description": "a Java text to speech and speech to text App.",
+    "skills": ["Java"],
+    "source": "https://github.com/LaFrimeWeb"
+  },
+  {
+    "title": "Shoes APP",
+    "imageSrc": "projects/project2.png",
+    "description": "A complete Shoes APP , where you can choose the category and the color.",
+    "skills": ["React", "Node"],
+    "source": "https://github.com/LaFrimeWeb"
+  },
+  {
+    "title": "A CPS Test APP",
+    "imageSrc": "projects/project3.png",
+    "description": "Test your Click per second",
+    "skills": ["JS"],
+    "source": "https://github.com/LaFrimeWeb"
+  },
+  {
+    "title": "Piano App",
+    "imageSrc": "projects/project4.png",
+    "description": "A simple piano APP so you can have some fun.",
+    "skills": ["JS"],
+    "source": "https://github.com/LaFrimeWeb"
+  },
+  {
+    "title": "My Team App",
+    "imageSrc": "projects/project5.png",
+    "description": "A simple team presentation.",
+    "skills": ["JS"],
+    "source": "https://github.com/LaFrimeWeb"
+  },
+  {
+    "title": "Form App",
+    "imageSrc": "projects/project6.png",
+    "description": "A Form for a website.",
+    "skills": ["JS"],
+    "source": "https://github.com/LaFrimeWeb"
+  },
+  {
+    "title": "StopWatch App",
+    "imageSrc": "projects/project7.png",
+    "description": "a little stopwatch that you can stop and reset.",
+    "skills": ["JSs"],
+    "source": "https://github.com/LaFrimeWeb"
+  },
+  {
+    "title": "A Counter",
+    "imageSrc": "projects/project8.png",
+    "description": "A easy and simple counter.",
+    "skills": ["React"],
+    "source": "https://github.com/LaFrimeWeb"
+  }, {
+    "title": "Todo App",
+    "imageSrc": "projects/project9.png",
+    "description": "a todo app maker.",
+    "skills": ["React"],
+    "source": "https://github.com/LaFrimeWeb"
+  },
+  {
+    "title": "A food recipe App",
+    "imageSrc": "projects/project10.png",
+    "description": "A food App where you can find all recipes you need.",
+    "skills": ["React", "Express", "Node"],
+    "source": "https://github.com/LaFrimeWeb"
+  },
+  {
+    "title": "Calculator",
+    "imageSrc": "projects/project11.png",
+    "description": "Simple calculator.",
+    "skills": ["React"],
+    "source": "https://github.com/LaFrimeWeb"
+  },
+  {
+    "title": "A quote App",
+    "imageSrc": "projects/project12.png",
+    "description": "Easy card with quote, and a slider",
+    "skills": ["React", "Express", "Node"],
+    "source": "https://github.com/LaFrimeWeb"
+  }, {
+    "title": "JS Form",
+    "imageSrc": "projects/project13.png",
+    "description": "Beautiful JS Form.",
+    "skills": ["React", "Express", "Node"],
+    "source": "https://github.com/LaFrimeWeb"
+  }, {
+    "title": "Number Generator",
+    "imageSrc": "projects/project14.png",
+    "description": "easy and simple number generator.",
+    "skills": ["JS"],
+    "source": "https://github.com/LaFrimeWeb"
+  }, {
+    "title": "Weight Converter",
+    "imageSrc": "projects/project15.png",
+    "description": "A weight converter from KG to LBS and vice verse.",
+    "skills": ["JS"],
+    "source": "https://github.com/LaFrimeWeb"
+  }
+
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "role": "Etudiant En génie informatique",
+    "organisation": "Ensa Fès",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": ["Génie Informatique 1", "Après avoir réussi le CNC"],
+    "imageSrc": "history/Ensa.png"
+  },
+  {
+    "role": "2 Annèes Préparatoires",
+    "organisation": "Ibn Ghazi",
+    "startDate": "Sept, 2021",
+    "endDate": "Sept, 2023",
+    "experiences": ["Deux années de Prépa en PCSI"],
+    "imageSrc": "history/ibnGhazi.png"
+  },
+  {
+    "role": "Baccalauréat biof",
+    "organisation": "Institut Blaise Pascal",
+    "startDate": "Sep, 2020",
+    "endDate": "Jun, 2021",
+    "experiences": [
+      "Bac avec mention bien"
+    ],
+    "imageSrc": "history/Blaise.png"
+  }
+]
